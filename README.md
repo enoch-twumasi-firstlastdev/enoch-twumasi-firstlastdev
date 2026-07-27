@@ -11,7 +11,7 @@ Everything I build is by **HIS Grace** and for **THE GLORY of THE ONE TRUE GOD**
 
 ---
 
-> I engineer deterministic software architecture, bridging the gap between low-level computing invariants—such as JavaScript runtime behavior, network transport mechanics, and system resource management—and modern, high-level product delivery.
+I engineer deterministic software architecture, bridging the gap between low-level computing invariants—such as JavaScript runtime behavior, network transport mechanics, and system resource management—and modern, high-level product delivery.
 
 My approach to digital infrastructure is heavily informed by an extensive background in physical systems, industrial operations, and clinical healthcare. In those environments, state isolation, strict failure boundaries, and deterministic execution are non-negotiable. I apply that exact rigor to software engineering, building systems with an explicit awareness of the runtime, infrastructure, and architectural layers that power them.
 
