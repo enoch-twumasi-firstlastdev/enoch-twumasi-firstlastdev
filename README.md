@@ -6,7 +6,7 @@
 ## My Anchor: THE FIRST AND THE LAST
 I am a **Seventh-day Adventist Christian**. To me, GOD’s WORDS are the most precious knowledge in existence.THEY are more than knowledge, as JESUS revealed, THEY are **spirit** and **life**. GOD's WORD is TRUTH as JESUS said. I deeply cherish the **Sabbath**, a wonderful time to raise affection from earth to things above; To rest in HIS presence and honor HIS work as THE CREATOR of all things. 
 
-Everything I build is by **HIS Grace** and for **THE GLORY of THE ONE TRUE GOD**. The brand name "First and Last" is a memorial to HIS NAME: 
+Everything I build is by **HIS Grace** and for **THE GLORY of THE ONE TRUE GOD**. The brand name "First and Last" stands to honor HIS NAME: 
 > *"I am the First and I am the Last; beside Me there is no god."* — **Isaiah 44:6**
 
 ---
